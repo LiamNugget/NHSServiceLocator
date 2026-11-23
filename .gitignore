@@ -1,0 +1,12 @@
+# Maven build output
+target/
+*.class
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Local datasets required to run the app
+data/*.csv
